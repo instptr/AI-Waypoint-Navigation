@@ -4,7 +4,7 @@
 This project utilizes artificial intelligence to detect roads and waypoints on a mini-map in the game "Grand Theft Auto V". It automatically navigates your character towards designated waypoints, simulating real-time pathfinding and navigation capabilities.
 
 ## Features
-- **Custom Trained MOdel**: Uses a custom dataset and yolov8 model to detect neccesary objects in real-time.
+- **Custom Trained Model**: Uses a custom dataset and yolov8 model to detect neccesary objects in real-time.
 - **Road Detection**: Uses computer vision to identify roads on the mini-map.
 - **Waypoint Navigation**: Detects waypoints and calculates the optimal path for navigation.
 - **Dynamic Path Adjustment**: Continuously adjusts the path based on real-time mini-map changes.
